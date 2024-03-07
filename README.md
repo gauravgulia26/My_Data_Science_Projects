@@ -2,7 +2,7 @@
 
 This repository showcases my work in various data science domains:
 
-**1. Bird Call Deep Audio Classifier**
+## 1. Bird Call Deep Audio Classifier
 
 * **Unveils the language of birds through Deep Learning!**
 * Analyzes bird calls for species identification using audio recordings and CNNs.
@@ -10,7 +10,7 @@ This repository showcases my work in various data science domains:
 
 **Technologies:** TensorFlow, Deep Learning Libraries (e.g., Keras), Audio Processing Libraries
 
-**2. Movie Review Sentiment Analysis**
+## 2. Movie Review Sentiment Analysis
 
 * **Classifies 50k reviews using ensembles & LSTMs (86% accuracy).**
 * Leverages LSTMs for nuanced sentiment analysis of movie reviews.
@@ -18,7 +18,7 @@ This repository showcases my work in various data science domains:
 
 **Technologies:** Scikit-learn, TensorFlow (or other relevant framework), Natural Language Processing Libraries
 
-**3. Advanced Sentiment Analysis on IMDb Reviews**
+## 3. Advanced Sentiment Analysis on IMDb Reviews
 
 * **Analyzes 50k IMDb reviews using Word2Vec and Logistic Regression (89.28% accuracy).**
 * Explores advanced NLP techniques for sentiment analysis.
@@ -26,7 +26,7 @@ This repository showcases my work in various data science domains:
 
 **Technologies:** Gensim, Scikit-learn, Natural Language Processing Libraries
 
-## 4. Text Summarization with Transformers**
+## 4. Text Summarization with Transformers
 
 * **Achieves impressive results using Transformers architecture on the XSum dataset (Hugging Face).**
 * Generates concise and informative summaries of lengthy textual data.

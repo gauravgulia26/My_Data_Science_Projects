@@ -26,6 +26,12 @@ Welcome to my project showcase! Below are highlights of my recent projects:
 - Leveraged deep learning, specifically Convolutional Neural Networks (CNNs), on a 25,000-image dataset to achieve 97% accuracy.
 - Spearheaded innovative neural network architectures and image preprocessing, translating into tangible business impact that facilitated a 20% improvement in image processing efficiency.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Intent Detection Using RNN and GPT-based Transformers
+
+- Engineered an Intent Detection model amalgamating Transformer and RNN frameworks, achieving a commendable accuracy score of 0.85.
+- Prepared multiple RNN layers and dense hidden layers, enhancing model performance by 30%.
+- Conducted rigorous experimentation for optimal architecture and hyperparameters resulting in a 2% improvement.
+
+---
 
 Feel free to reach out if you have any questions or feedback! 📧
